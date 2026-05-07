@@ -35,6 +35,8 @@ Salesforce Developer:
 Writes code using Apex and Lightning Web Components (LWC)
 Builds custom applications and features
 Extends Salesforce functionality beyond standard features
+
+
 5. Real-world application using Salesforce
 
 One real-world application that can be built using Salesforce is a College Management System.
