@@ -31,7 +31,7 @@ This helped me understand how flexible Salesforce is when handling different typ
 I successfully completed 4 Trailhead badges today, which improved my understanding of Salesforce fundamentals and hands-on practice.
 
 Proof of Work:
-
+![Badge](./WhatsApp%20Image%202026-05-08%20at%203.28.32%20PM.jpeg)
 
 
 
