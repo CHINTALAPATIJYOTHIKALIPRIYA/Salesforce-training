@@ -45,11 +45,14 @@ It can include:
 
 Student management
 Attendance tracking
-
-<img width="1497" height="1259" alt="CRM" src="https://github.com/user-attachments/assets/2010300b-1e66-463b-a051-2d4120b3a61d" />
-
 Fee management
 Exam records
+
+<img width="1530" height="1388" alt="agentforce" src="https://github.com/user-attachments/assets/7b22f51a-143b-4d29-bc6c-2dd5d42ec256" />
+<img width="1530" height="1486" alt="Data modeling" src="https://github.com/user-attachments/assets/885b7f29-b24d-4135-a3ce-d4087b132d58" />
+
+
+
 Course and faculty management
 
 This helps automate and organize all college operations in one system.
