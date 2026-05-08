@@ -45,6 +45,9 @@ It can include:
 
 Student management
 Attendance tracking
+
+<img width="1497" height="1259" alt="CRM" src="https://github.com/user-attachments/assets/2010300b-1e66-463b-a051-2d4120b3a61d" />
+
 Fee management
 Exam records
 Course and faculty management
