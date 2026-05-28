@@ -9,7 +9,7 @@ Enterprises operate at a large scale, often managing hundreds of developers and 
 * **Quality Assurance and Consistency:** Enforcing linting, formatting, and unit tests ensures that all code meets the company's technical standards before it is ever merged.
 * **Separation of Duties:** It prevents a single individual from writing code and pushing it to production without oversight, reducing internal fraud or accidental catastrophic deployments.
 
----
+
 
 ## Approval Workflow Examples
 In a governed enterprise environment, code changes cannot bypass verification. Typical approval pipelines follow a tiered structure:
